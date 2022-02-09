@@ -18,17 +18,11 @@ PRODUCT_PACKAGES += \
 
 # AOSP packages
 PRODUCT_PACKAGES += \
-    Email \
-    ExactCalculator \
     Exchange2
 
 # Lineage packages
 PRODUCT_PACKAGES += \
-    AudioFX \
     Backgrounds \
-    Eleven \
-    Etar \
-    Jelly \
     LockClock \
     Profiles \
     Seedvault \
